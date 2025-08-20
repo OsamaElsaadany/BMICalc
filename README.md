@@ -4,12 +4,14 @@ A new Flutter project.
 
 ## Screenshots
 
-![BMI screen for normal](lib\assets\bmi_scrforNormal.jpg)
-![result screen for normal](lib\assets\resScrforNormal.jpg)
+![BMI screen for normal](https://github.com/OsamaElsaadany/BMICalc/blob/main/lib/assets/bmi_scrforNormal.jpg?raw=true)
+![result screen for normal](https://github.com/OsamaElsaadany/BMICalc/blob/main/lib/assets/resScrforNormal.jpg?raw=true)
 ![BMI screen for obese](https://github.com/OsamaElsaadany/BMICalc/blob/main/lib/assets/bmiScrforObese.jpg?raw=true)
-![result screen for obese](lib\assets\resScrforObese.jpg)
-![BMI screen for Underweight](lib\assets\bmiScrforUndWe.jpg)
-![result screen for Underweight](lib\assets\resScrforUndWei.jpg)
+![result screen for obese](https://github.com/OsamaElsaadany/BMICalc/blob/main/lib/assets/resScrforObese.jpg?raw=true)
+![BMI screen for Underweight](https://github.com/OsamaElsaadany/BMICalc/blob/main/lib/assets/bmiScrforUndWe.jpg?raw=true)
+![result screen for Underweight](https://github.com/OsamaElsaadany/BMICalc/blob/main/lib/assets/resScrforUndWei.jpg?raw=true)
+
+
 
 ##Topic search Scrollable wedgits in flutter
 -SingleChildScrollView uses simple pages
