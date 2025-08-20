@@ -6,7 +6,7 @@ A new Flutter project.
 
 ![BMI screen for normal](lib\assets\bmi_scrforNormal.jpg)
 ![result screen for normal](lib\assets\resScrforNormal.jpg)
-![BMI screen for obese](lib\assets\bmiScrforObese.jpg)
+![BMI screen for obese](https://github.com/OsamaElsaadany/BMICalc/blob/main/lib/assets/bmiScrforObese.jpg?raw=true)
 ![result screen for obese](lib\assets\resScrforObese.jpg)
 ![BMI screen for Underweight](lib\assets\bmiScrforUndWe.jpg)
 ![result screen for Underweight](lib\assets\resScrforUndWei.jpg)
